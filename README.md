@@ -1,16 +1,16 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Jeff! 👋
 
 ![Banner Image](your_banner_image_url_here)
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate Web Development with experience in NextJS, React, UX, and site design. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: Tailwind CSS
+- 🔭 Working on: The personal website of Jay Postones, drummer for Tesseract
+- 🌍 Languages: JavaScript, Python, C++, C#, Java. Oh yeah, and English and Spanish!
+- 📫 How to reach me: jeffh.84@gmail.com
+- ⚡ Fun fact: When I'm not coding, I'm either cave diving or on tour with Cannibal Corpse or Periphery as their lighting guy!
 
 ## My Skills 🧠
 
