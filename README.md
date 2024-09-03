@@ -25,7 +25,7 @@ I'm a passionate Web Development with experience in NextJS, React, UX, and site 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+*Like these badges? [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
 
 ## Featured Projects 💻
 
