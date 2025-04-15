@@ -2,15 +2,15 @@
 
 ![Banner Image](your_banner_image_url_here)
 
-## About Me 🚀
+## Who?
 
-I'm a passionate Web Development with experience in NextJS, React, UX, and site design. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a freelance web developer often working from home, coffee shops, or while on the road as a touring Lighting Designer. My specialty is react-based frameworks like NextJS with an emphasis on full stack e-commerce. 
 
-- 🌱 Currently learning: Tailwind CSS and Supabase
-- 🔭 Working on: The personal website of Jay Postones, drummer for Tesseract
-- 🌍 Languages: JavaScript, Python, C++, C#, Java.
-- 📫 How to reach me: jeffh.84@gmail.com
-- ⚡ Fun fact: When I'm not coding, I'm either cave diving or on tour with Cannibal Corpse or Periphery as their lighting guy!
+- Currently learning: Tailwind CSS and Supabase
+  
+- Working on: e-commerce websites for Jay Postones and Golden Lantern Coffee Roasters
+  
+- How to reach me: jeffh.84@gmail.com
 
 ## My Skills 🧠
 
