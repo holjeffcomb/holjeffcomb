@@ -1,27 +1,33 @@
-# Hi there, I'm Jeff! 👋
+# Jeff Holcomb
+**Full Stack Developer | React & Next.js Specialist**
 
-![Banner Image](your_banner_image_url_here)
+## About
+I'm a full stack developer specializing in React-based frameworks and e-commerce solutions. With a background that bridges technology and creative industries, I bring a unique perspective to building user-focused web applications.
 
-## Who?
+**Current Focus:**
+- Building scalable e-commerce platforms with Next.js
+- Integrating modern payment systems and inventory management
+- Exploring Supabase for backend solutions
 
-I'm a freelance web developer often working from home, coffee shops, or while on the road as a touring Lighting Designer. My specialty is react-based frameworks like NextJS with an emphasis on full stack e-commerce. 
+**Recent Projects:**
+- E-commerce platform for music education (Jay Postones)
+- Coffee roaster website with subscription management (Golden Lantern Coffee Roasters)
 
-- Currently learning: Tailwind CSS and Supabase
-  
-- Working on: e-commerce websites for Jay Postones and Golden Lantern Coffee Roasters
-  
-- How to reach me: jeffh.84@gmail.com
+## Tech Stack
 
-## My Skills 🧠
-
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+**Frontend:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-<br>
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 
+**Backend & Database:**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+## Contact
+📧 jeffh.84@gmail.com
+
+---
+*Available for freelance projects and collaborations*
